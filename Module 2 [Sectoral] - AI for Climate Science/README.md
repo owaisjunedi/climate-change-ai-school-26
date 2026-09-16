@@ -54,4 +54,6 @@ Module 2, **"AI for Climate Science,"** focuses on how modern machine learning t
 
 - Lastly (and importantly!) climate data equity matters. Regions facing the greatest climate risks often have the least observational coverage. Transfer learning can help narrow this gap by training models in data-rich regions and fine-tuning them using the limited observations available in data-scarce regions.
 
+- Video Reference for the tutorial : https://www.youtube.com/watch?v=k58-I9K21Ng
+
 -----
