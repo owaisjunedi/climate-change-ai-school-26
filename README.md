@@ -1,6 +1,10 @@
 # climate-change-ai-school-26
 Climate Change AI Virtual Summer School 2026
 
+Introduction to Python & ML -  (
+https://docs.google.com/document/d/1-0RN9NRXJHrHlFg6UBgfGL2fppHHeORVuiBjrllKsm0/edit?usp=sharing
+)
+
 ## Content:
 ```
 Marked a Star (*) for weighted importance
