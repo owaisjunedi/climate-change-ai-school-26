@@ -70,8 +70,17 @@ While AI offers high-dimensional modeling, causal inference, and automated evide
 
 - Audit for errors or Biases: Make that the training data is appropriate for the context at all times. AI has the potential to replicate social identification biases (gender, etc.), which, if left unchecked, could compromise the credibility of climate research.
 
+---
+---
 
-\
-Tutorial Walkthrough Video: NLP Models for Climate Policy Analysis — Evidence Synthesis
+
+### Tutorial Walkthrough Video: 
+
+#### NLP Models for Climate Policy Analysis — Evidence Synthesis
 
 Research Synthesis using NLP in the Field of Climate Change: Part 1 - https://www.youtube.com/watch?v=KEScm0s7RCs
+
+#### NLP Models for Climate Policy Analysis Part 2: Prompts for Sustainable Development Goals
+
+Research Synthesis using NLP in the Field of Climate Change: Part 2 - https://www.youtube.com/watch?v=pPDsLQIvWMM
+
