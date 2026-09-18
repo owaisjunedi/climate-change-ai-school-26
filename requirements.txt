@@ -1,0 +1,10 @@
+# Requirements for the CCAI Tsunami Prediction Tutorial
+#
+# Install with:  pip install -r requirements.txt
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+folium
