@@ -12,3 +12,4 @@ Marked a Star (*) for weighted importance
 - Module 1 [Foundation] - Tackling Climate Change with Machine Learning ***
 - Module 2 [Sectoral] - AI for Climate Science **
 - Module 3 [Sectoral] - AI for Policy, Economics & Social Sciences
+- Module 4 [Foundation] - Introduction to AI ******
