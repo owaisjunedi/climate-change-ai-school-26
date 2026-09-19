@@ -62,3 +62,10 @@ Decarbonizing transportation lacks a single economic champion; therefore, succes
 - It's still early days, and AI's value depends on matching the right tool to the right bottleneck. AI is useful for building data-driven models, optimizing decisions, and automating workflows, but real progress requires figuring out which of these is actually the limiting factor in a given system, and building a broad coalition of stakeholders whose priorities happen to align with climate goals.
 
 ---
+---
+
+#### Tutorial walkthrough video
+https://www.youtube.com/watch?v=L8L7LFsDlxg
+
+
+---
