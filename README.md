@@ -14,3 +14,4 @@ Marked a Star (*) for weighted importance
 - Module 3 [Sectoral] - AI for Policy, Economics & Social Sciences
 - Module 4 [Foundation] - Introduction to AI ******
 - Module 5 [Foundation] - Introduction to Climate Change
+- Module 6 [Foundation] - Introduction to AI Policy & Regulation
