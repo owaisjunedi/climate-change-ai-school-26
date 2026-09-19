@@ -16,3 +16,4 @@ Marked a Star (⭐) for weighted importance
 - Module 5 [Foundation] - Introduction to Climate Change ⭐
 - Module 6 [Foundation] - Introduction to AI Policy & Regulation ⭐
 - Module 9 [Sectoral] - AI for Transportation ⭐
+- Module 11 [Sectoral] - AI for Weather ⭐
