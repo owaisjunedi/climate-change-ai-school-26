@@ -17,4 +17,5 @@ Marked a Star (⭐) for weighted importance
 - Module 6 [Foundation] - Introduction to AI Policy & Regulation ⭐
 - Module 9 [Sectoral] - AI for Transportation ⭐
 - Module 11 [Sectoral] - AI for Weather ⭐
-- Module 12 [Foundation] - Responsible & Ethical AI ⭐
+- Module 12 [Foundation] - Responsible & Ethical AI ⭐⭐
+- Module 14 [Foundation] - Introduction to Climate Policy & Regulation ⭐
