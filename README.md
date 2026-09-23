@@ -15,6 +15,7 @@ Marked a Star (⭐) for weighted importance
 - Module 4 [Foundation] - Introduction to AI ⭐⭐⭐⭐⭐⭐⭐
 - Module 5 [Foundation] - Introduction to Climate Change ⭐
 - Module 6 [Foundation] - Introduction to AI Policy & Regulation ⭐
+- Module 7 [Sectoral] - AI for Agriculture and Food Security
 - Module 9 [Sectoral] - AI for Transportation ⭐
 - Module 11 [Sectoral] - AI for Weather ⭐
 - Module 12 [Foundation] - Responsible & Ethical AI ⭐⭐
