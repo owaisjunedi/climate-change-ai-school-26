@@ -1,0 +1,14 @@
+codecarbon[carbonboard]
+dash
+dash-bootstrap-components==0.13.1
+netCDF4
+fire
+optuna
+matplotlib
+scipy
+pandas
+scikit-learn
+torch
+torchvision
+xarray
+gdown
