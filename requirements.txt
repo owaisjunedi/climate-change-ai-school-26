@@ -1,0 +1,8 @@
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.16.3
+librosa==0.11.0
+soundfile==0.14.0
+matplotlib==3.10.0
+codecarbon==3.3.0
+watermark>=2.4
