@@ -31,3 +31,4 @@ Marked a Star (⭐) for weighted importance
 - Module 20 [Sectoral] - AI for Accelerated Materials Science ⭐
 - Module 21 [Sectoral] - AI for Public Health ⭐
 - Module 22 [Sectoral] - AI for Biodiversity & Ecosystems
+- Module 23 [Sectoral] - AI for Risk Assessment, Disaster Management & Relief
