@@ -30,3 +30,4 @@ Marked a Star (⭐) for weighted importance
 - Module 19 [Foundation] - Sustainability Impacts of AI
 - Module 20 [Sectoral] - AI for Accelerated Materials Science ⭐
 - Module 21 [Sectoral] - AI for Public Health ⭐
+- Module 22 [Sectoral] - AI for Biodiversity & Ecosystems
