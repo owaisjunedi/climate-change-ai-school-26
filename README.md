@@ -32,3 +32,4 @@ Marked a Star (⭐) for weighted importance
 - Module 21 [Sectoral] - AI for Public Health ⭐
 - Module 22 [Sectoral] - AI for Biodiversity & Ecosystems
 - Module 23 [Sectoral] - AI for Risk Assessment, Disaster Management & Relief
+- Module 24 [Sectoral] - Combining AI and Indigenous Knowledge for Climate Action
