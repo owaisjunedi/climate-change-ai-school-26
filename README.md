@@ -23,4 +23,5 @@ Marked a Star (⭐) for weighted importance
 - Module 12 [Foundation] - Responsible & Ethical AI ⭐⭐
 - Module 13 [Sectoral] - AI for Forestry
 - Module 14 [Foundation] - Introduction to Climate Policy & Regulation ⭐
+- Module 15 [Sectoral] - AI for Oceans & Marine Systems
 - Module 16 [Foundation] - Shaping Your AI-for-Climate Project in Practice ⭐
