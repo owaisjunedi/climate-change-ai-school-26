@@ -1,0 +1,15 @@
+# Requirements for citylearn_ccai_tutorial
+
+gymnasium
+nrel-pysam
+simplejson
+CityLearn==2.2b0
+matplotlib
+seaborn
+stable-baselines3
+requests
+beautifulsoup4
+tqdm
+numpy
+pandas
+ipywidgets
