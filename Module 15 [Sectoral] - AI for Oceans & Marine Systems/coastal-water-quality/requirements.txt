@@ -1,0 +1,22 @@
+# Data science & machine learning
+numpy
+scipy
+scikit-learn
+pandas
+
+# Earth science & plotting
+copernicusmarine
+xarray
+netCDF4
+cmocean
+cartopy
+seaborn
+matplotlib
+
+# Carbon tracking
+codecarbon
+
+# PyTorch
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
