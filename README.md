@@ -27,3 +27,4 @@ Marked a Star (⭐) for weighted importance
 - Module 16 [Foundation] - Shaping Your AI-for-Climate Project in Practice ⭐
 - Module 17 [Sectoral] - AI for Power & Energy Systems
 - Module 18 [Sectoral] - AI for Climate Finance
+- Module 19 [Foundation] - Sustainability Impacts of AI
