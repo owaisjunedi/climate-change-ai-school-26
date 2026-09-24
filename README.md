@@ -33,3 +33,4 @@ Marked a Star (⭐) for weighted importance
 - Module 22 [Sectoral] - AI for Biodiversity & Ecosystems
 - Module 23 [Sectoral] - AI for Risk Assessment, Disaster Management & Relief
 - Module 24 [Sectoral] - Combining AI and Indigenous Knowledge for Climate Action
+- Module 25 [Sectoral] - AI for Carbon Accounting (Monitoring, Reporting, and Verification)
