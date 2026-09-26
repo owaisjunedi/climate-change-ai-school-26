@@ -1,13 +1,24 @@
-# climate-change-ai-school-26
-Climate Change AI Virtual Summer School 2026
+# Climate Change AI Virtual Summer School 2026
 
-Introduction to Python & ML -  (
-https://docs.google.com/document/d/1-0RN9NRXJHrHlFg6UBgfGL2fppHHeORVuiBjrllKsm0/edit?usp=sharing
-)
+### Materials for AI/ML:
+
+[Introduction to Python & ML - 2026 Resources](https://docs.google.com/document/d/1-0RN9NRXJHrHlFg6UBgfGL2fppHHeORVuiBjrllKsm0/edit?usp=sharing)
+
+[AI/ML and SWE/Python Self-Study - 2023 Resources](https://docs.google.com/spreadsheets/d/1gtdMPDEISW-e8tFhVcx24-Q6xfdFsFgr/edit?pli=1&gid=1048929104#gid=1048929104)
+
+[Caltech - Learning from Data](https://work.caltech.edu/telecourse)
+
+[CS 61B - UC Berkeley](https://sp18.datastructur.es/)
+
+[CVIT IIIT Summer School 2021 - Resources](https://cvit.iiit.ac.in/summerschool2021/resources.php)
+
+[CCAI Summer School 2023 - Materials](https://docs.google.com/spreadsheets/d/1XoY34IWteQf-8pl4mVaVkXgAXJfrQfVXMqIcN_yioZE/edit?pli=1&gid=0#gid=0)
+
+[Machine Learning Summer School 2021 (Taipei - August 2021)](https://ai.ntu.edu.tw/mlss2021sta/ai.ntu.edu.tw/mlss2021new/index.html)
 
 ## Content:
 ```
-Marked a Star (⭐) for weighted importance
+Marked a Star (⭐) for weighted importance of module
 ```
 - Module 1 [Foundation] - Tackling Climate Change with Machine Learning ⭐⭐⭐⭐
 - Module 2 [Sectoral] - AI for Climate Science ⭐⭐⭐
