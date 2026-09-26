@@ -10,6 +10,10 @@
 
 [CS 61B - UC Berkeley](https://sp18.datastructur.es/)
 
+[Neural Networks / Deep Learning Playlist - StatQuest with Josh Starmer](https://www.youtube.com/watch?v=zxagGtF9MeU&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+
+[Neural Networks - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
 [CVIT IIIT Summer School 2021 - Resources](https://cvit.iiit.ac.in/summerschool2021/resources.php)
 
 [CCAI Summer School 2023 - Materials](https://docs.google.com/spreadsheets/d/1XoY34IWteQf-8pl4mVaVkXgAXJfrQfVXMqIcN_yioZE/edit?pli=1&gid=0#gid=0)
